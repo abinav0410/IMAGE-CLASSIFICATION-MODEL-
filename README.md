@@ -15,3 +15,5 @@ It includes:
 - **Training set:** 50,000 images  
 - **Test set:** 10,000 images  
 - **Classes:** Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck
+# OUTPUT 
+<img width="694" height="189" alt="Image" src="https://github.com/user-attachments/assets/2dbc8eaa-1a74-4faa-8672-6bdd5bbc4515" />
